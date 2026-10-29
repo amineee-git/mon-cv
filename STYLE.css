@@ -1,0 +1,19 @@
+body {
+font-family: Arial;
+background-color: #f1c183e3;
+margin: 40px;
+}
+h1 {
+color: rgb(0, 0, 12);
+}
+h2 {
+color: rgb(2, 2, 44);
+}
+p {
+font-size: 22px;
+}
+ul {
+background: rgba(207, 203, 188, 0.623);
+padding: 5px;
+border-radius: 5px;
+}
